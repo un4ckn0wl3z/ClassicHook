@@ -1,0 +1,9 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  stdafx.cpp
+cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+  Hookdll.cpp
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hookdll.vcxproj -> C:\Users\anuwat\source\repos\ClassicHook\Release\Hookdll.dll
